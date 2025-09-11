@@ -1,0 +1,141 @@
+# profile.yml - raw data for grageragarces.github.io
+name: "María Gragera Garcés"
+role: "PhD student, Quantum Informatics"
+affiliation:
+  institution: "The University of Edinburgh"
+  department: "School of Informatics"
+  url: "https://www.ed.ac.uk"
+research_interests:
+  - "Distributed quantum computing"
+  - "Quantum networks"
+  - "Complexity theory"
+  - "Quantum computing models"
+
+contacts:
+  email: ""            # add email if desired
+  cv: ""               # add CV URL
+  linkedin: "https://www.linkedin.com"
+  bluesky: "https://bsky.app"
+  github: "https://github.com"
+  scholar: "https://scholar.google.com"
+  pure: "https://www.research.ed.ac.uk"
+
+publications:
+  - title: "Introducing Quantum Computing to High-School Curricula: A Global Perspective"
+    authors: ["María Gragera Garcés", "Luis Gómez Orzechowski", "Juan Francisco Rodríguez Hernández"]
+    venue: "arXiv pre-print"
+    year: 2025
+    url: "https://arxiv.org"
+    notes: "Review of global STEM education and integration of quantum-industry relevant skills at secondary-school level."
+  - title: "Controlling Quantum Communication via Quantum Memory Management"
+    authors: ["Louis Gwyn Samuel", "Santanu Ganguly", "Maria Gragera Garces", "Luca Della Chiesa"]
+    venue: "US Patent Application"
+    year: 2024
+    url: "https://patents.google.com"
+    notes: "Quantum memory manager for distributed quantum systems."
+  - title: "Realizing a sustainable quantum internet for the smallest/future researchers"
+    authors: ["Ed Kuijpers","Swantje Kastrup","Jasper van de Kraats","Robert de Keijzer","Zhichao Guo","Maria Gragera Garces","Vesna Manojlovic"]
+    venue: "Quantum Internet Hackathon Results"
+    year: 2022
+    url: ""
+    notes: "Study on social & ecological sustainability of quantum computing."
+
+blogs_and_articles:
+  - title: "Distributed Quantum Computing: An Insider Perspective"
+    type: "Series of Articles"
+    year: "2025 - Ongoing"
+    url: ""
+  - title: "AI Sketched Me from our chats: Now I know what Gendered Writing is"
+    type: "LinkedIn article"
+    year: 2025
+    url: "https://www.linkedin.com"
+  - title: "Navigating the Quantum Risk Landscape"
+    type: "Medium article (QuAIL Technologies)"
+    year: 2024
+    url: "https://medium.com"
+  - title: "A Study on the Effects of Storytelling in Science Education"
+    type: "LinkedIn"
+    year: 2024
+    url: "https://www.linkedin.com"
+  - title: "Byzantine betrayals and quantum generals"
+    type: "LinkedIn"
+    year: 2024
+    url: "https://www.linkedin.com"
+
+talks_and_podcasts:
+  - title: "Navigating the Quantum Wonderland: A PhD Journey with María"
+    type: "Podcast (Beyond the bit: Quantum Pathways)"
+    year: 2025
+    url: "https://open.spotify.com"
+  - title: "Quantum Internet, Informatics, Quantum Software, Distributed Computing"
+    type: "YouTube (Genesis of Tomorrow)"
+    year: 2024
+    url: "https://www.youtube.com"
+  - title: "Quantum Undergrad"
+    type: "Podcast (The Quantum Divide)"
+    year: 2024
+    url: "https://podcasts.apple.com"
+  - title: "Las telecomunicaciones cuánticas y el futuro del internet cuantico"
+    type: "YouTube (Qiskit Fall Fest en Español)"
+    year: 2023
+    url: "https://www.youtube.com"
+  - title: "Computación cuántica para dummies!"
+    type: "YouTube (Beitlab)"
+    year: 2022
+    url: "https://www.youtube.com"
+
+projects:
+  - name: "HDH library"
+    year: 2025
+    description: "Public Python library for construction and implementation of HDHs (intermediate representation) for distributed quantum workloads."
+    url: ""
+  - name: "Quantum tech papers"
+    year_range: "2022-2025"
+    description: "Personal journal-like list of papers read during early quantum research journey."
+    url: "https://github.com"
+  - name: "Modelling of photon pair generation in dual-rail lithium niobate photonic nano-wire setup"
+    year: 2024
+    description: "Undergraduate dissertation code."
+    url: "https://github.com"
+  - name: "IBM Quantum Challenge 2024 Lab 1"
+    year: 2024
+    description: "Co-created Lab 1 for IBM Quantum Challenge 2024."
+    url: "https://github.com"
+  - name: "Quantum error correction code library for Julia's Clifford gate simulator"
+    year: 2022
+    description: "Google Summer of Code project: library of QEC codes for Julia simulator."
+    url: "https://github.com"
+
+experience_and_awards:
+  - title: "Quantinuum internship"
+    location: "Cambridge Quantinuum offices"
+    dates: "Starting September 2025 (three-month stay)"
+    notes: "Compiler team; optimizing quantum workloads."
+  - title: "SandboxAQ Research Excellence Scholar"
+    issuer: "SandboxAQ"
+    date: "August 2025"
+    notes: "Selected for inaugural cohort; $10,000 research excellence award."
+  - title: "Unitary Fund microgrant grantee"
+    issuer: "Unitary Foundation"
+    date: "August 2025"
+    amount: 4000
+    notes: "Microgrant for HDH library development."
+  - title: "Classiq ambassadorship"
+    issuer: "Classiq Technologies"
+    dates: "2024-2028"
+    notes: "Ambassador role; outreach and posts."
+
+events_and_mentoring:
+  - title: "NQCC Hack 2025"
+    role: "Volunteer/Mentor"
+    organizer: "NQCC"
+    date: "July 2025"
+    notes: "Mentored teams; supported IBM Quantum mentorship."
+  - title: "WERQSHOP"
+    organizer: "New York University"
+    date: "July 2025"
+    notes: "Talk on error mitigation and noise in distributed quantum computing."
+
+meta:
+  source: "https://grageragarces.github.io/"
+  last_scraped: "2025-09-11"
