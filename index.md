@@ -17,24 +17,3 @@ You can reach me at:
 
 
 
-## 📝 Blogs and Articles
-Here are some of my writings:
-
-{% for blog in site.data.profile.blogs_and_articles %}
-- **[{{ blog.title }}]({{ blog.url }})** ({{ blog.year }})  
-  *{{ blog.type }}*
-{% endfor %}
-
----
-
-## 🎨 My Paintings
-{% for painting in site.data.profile.paintings %}
-### {{ painting.title }} ({{ painting.year }})
-
-![{{ painting.title }}]({{ painting.image_url }})
-
-{{ painting.description }}
-
----
-
-{% endfor %}
