@@ -1,1 +1,75 @@
+# _data/profile.yml
 
+name: "Pravy Prerana"
+role: "Quantum Scientist"
+profile_photo: "/images/profile.jpg"
+
+affiliation:
+  institution: "Your University or Organization"
+  department: "School of Physics / Quantum Computing Group"
+  url: "https://your-institution-link.com"
+
+bio: >
+  I am a budding quantum scientist passionate about quantum walks, 
+  distributed quantum computing, and the intersection of science and art. 
+  My current research focuses on quantum run-and-tumble processes and quantum network protocols.
+
+contacts:
+  email: "your_email@example.com"
+  cv: "https://your-cv-link.pdf"
+  linkedin: "https://www.linkedin.com/in/your-linkedin/"
+  github: "https://github.com/PravyPrerana-1610"
+  scholar: "https://scholar.google.com/citations?user=YOUR_ID"
+  bluesky: "https://bsky.app/profile/your-profile"
+
+research_interests:
+  - "Quantum walks and run-and-tumble dynamics"
+  - "Distributed quantum computing"
+  - "Quantum networks"
+  - "Complexity theory"
+
+publications:
+  - title: "A Quantum Version of the Run and Tumble Process"
+    authors: ["Pravy Prerana", "Sascha Wald"]
+    venue: "Preprint, 2025"
+    url: "https://arxiv.org/abs/1234.56789"
+    notes: >
+      Introducing a novel quantum model for run-and-tumble dynamics with
+      potential applications in condensed matter and quantum information.
+
+  - title: "Needle in a Haystack: Quantum Techniques for Cybersecurity"
+    authors: ["Pravy Prerana", "Team NQCC Workshop"]
+    venue: "IBM & Cisco Quantum Workshop, 2025"
+    url: "https://workshop-link.com"
+
+blogs_and_articles:
+  - title: "Distributed Quantum Computing: An Insider Perspective"
+    type: "Series of Articles"
+    year: "2025 - Ongoing"
+    url: ""
+
+  - title: "AI Sketched Me from our chats: Now I know what Gendered Writing is"
+    type: "LinkedIn article"
+    year: 2025
+    url: "https://www.linkedin.com"
+
+paintings:
+  - title: "The Quantum Dreamscape"
+    year: 2024
+    image_url: "/images/quantum_dreamscape.jpg"
+    description: >
+      This painting represents the strange and beautiful world of quantum
+      superposition, where multiple possibilities exist at once.
+
+  - title: "Entangled Minds"
+    year: 2023
+    image_url: "/images/entangled_minds.jpg"
+    description: >
+      A symbolic representation of two minds deeply connected,
+      inspired by quantum entanglement. It reflects the overlap between science and human emotion.
+
+news:
+  - date: "2025-08-10"
+    text: "Presented at IBM & Cisco Quantum Workshop on distributed quantum computing."
+  - date: "2025-07-20"
+    text: "Started working on a paper comparing classical and quantum run-and-tumble dynamics."
